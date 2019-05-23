@@ -1,0 +1,6 @@
+com/regulatory/ApplicationTests.class
+com/regulatory/controller/RegulatoryControllerTest.class
+com/regulatory/BaseTest.class
+com/regulatory/service/MessageReceiverServiceTest.class
+com/regulatory/util/ActiveMQTest.class
+com/regulatory/service/MessageSenderServiceTest.class

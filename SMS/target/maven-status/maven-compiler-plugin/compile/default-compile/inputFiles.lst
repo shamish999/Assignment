@@ -1,0 +1,14 @@
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/cache/Cache.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/job/RecordFieldSetMapper.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/job/ScheduleJobWrapper.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/Application.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/tasklet/FlagStockTasklet.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/dto/StockRecord.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/tasklet/ReportIrregularityTasklet.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/util/SMSConstants.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/job/SMSJobRepository.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/job/PopulateRecordProcessor.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/job/QuartzConfig.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/factory/SMSJobFactory.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/job/StepConfig.java
+/Users/shamish/Documents/Project/Assignement/SMS/src/main/java/com/sms/job/ConsoleItemWriter.java

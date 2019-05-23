@@ -1,0 +1,63 @@
+\||||
+
+
+ReadMe.doc
+
+{
+   "IN":    [
+            {
+         "nationality": "India",
+         "countryOfResidence": "IN",
+         "dob": "2019-05-21T16:23:49.154+0000",
+         "traderId": "123",
+         "amount": 32423,
+         "currency": "INR",
+         "stockId": "123",
+         "buyOrSell": "Buy",
+         "firstName": "Abc",
+         "lastName": "Pqr",
+         "transTime": "2019-05-21T16:23:49.154+0000"
+      },
+            {
+         "nationality": "India",
+         "countryOfResidence": "IN",
+         "dob": "2019-05-21T16:23:49.154+0000",
+         "traderId": "123",
+         "amount": 32423,
+         "currency": "INR",
+         "stockId": "123",
+         "buyOrSell": "Buy",
+         "firstName": "Abc",
+         "lastName": "Pqr",
+         "transTime": "2019-05-21T16:23:49.154+0000"
+      }
+   ],
+   "NI":    [
+            {
+         "nationality": "Nigeria",
+         "countryOfResidence": "NI",
+         "dob": "2019-05-21T16:23:49.154+0000",
+         "traderId": "234",
+         "amount": 245852,
+         "currency": "NI",
+         "stockId": "234",
+         "buyOrSell": "Buy",
+         "firstName": "dfa",
+         "lastName": "Pfadsqr",
+         "transTime": "2019-05-21T16:23:49.154+0000"
+      },
+            {
+         "nationality": "Nigeria",
+         "countryOfResidence": "NI",
+         "dob": "2019-05-21T16:23:49.154+0000",
+         "traderId": "234",
+         "amount": 34141,
+         "currency": "NI",
+         "stockId": "234",
+         "buyOrSell": "Buy",
+         "firstName": "dfa",
+         "lastName": "Pfadsqr",
+         "transTime": "2019-05-21T16:23:49.154+0000"
+      }
+   ]
+}
